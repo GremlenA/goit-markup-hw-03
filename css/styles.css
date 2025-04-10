@@ -7,6 +7,11 @@ header
 {
    border-bottom: 1px solid #e7e9fc;
 }
+.navhed
+{
+   display: flex; 
+   align-items: center;
+}
 div
 {
    display: flex;
@@ -97,11 +102,6 @@ button:focus {
    background-color: #404BBF;
 }
 
-.header-info.container > nav
-{
-   display: flex;
-   align-items: center; 
-}
 .header-info.container
 {
  border-bottom: 1px solid #e7e9fc;
