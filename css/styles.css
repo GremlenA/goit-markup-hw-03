@@ -15,7 +15,8 @@ header
    text-transform: uppercase;
    color: #4d5ae5;
    font-family: "Raleway", sans-serif;
-   margin-right: 76px
+   margin-right: 76px;
+   width: 1158px; 
 }
 
 .logo-header > span {
