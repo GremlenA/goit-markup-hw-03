@@ -7,7 +7,7 @@ header
 {
    border-bottom: 1px solid #e7e9fc;
 }
-.header.header-info-container.navhed
+.header-info-container.logo-text
 {
    display: flex; 
    align-items: center;
