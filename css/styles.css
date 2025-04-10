@@ -10,6 +10,8 @@ header
 div
 {
    display: flex;
+   width: 1158px;
+   container:0;
 }
 .logo-header {
    font-weight: 700;
