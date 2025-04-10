@@ -86,8 +86,10 @@ button:hover,
 button:focus {
    background-color: #404BBF;
 }
-.navlogoh
+
+.header-info > nav
 {
+   display: flex;
    align-items: center; 
 }
 .header-info
