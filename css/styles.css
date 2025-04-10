@@ -39,7 +39,14 @@ body {
 .menu-item:focus {
    color: #404bbf;
 }
-
+.menu
+{
+   display: flex;
+   padding-left: 15px;
+   padding-right: 15;
+   width: 1158px;
+   margin: 0 auto;
+}
 address {
    line-height: 1.5;
    letter-spacing: 0.02em;
@@ -72,7 +79,10 @@ button:hover,
 button:focus {
    background-color: #404BBF;
 }
-
+.header-info
+{
+ border-bottom: 1px solid #e7e9fc;
+}
 section {
    background-color: #2e2f42;
 }
