@@ -1,0 +1,251 @@
+body {
+   color: #434455;
+   background-color: #ffffff;
+   font-family: "Roboto", sans-serif;
+}
+
+.logo-header {
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   font-family: "Raleway", sans-serif;
+}
+
+.logo-header > span {
+   color: #2e2f42;
+}
+
+.logo-text {
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   font-family: "Raleway", sans-serif;
+}
+.menu-item {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+   text-decoration: none;
+}
+.menu-item:hover,
+.menu-item:focus {
+   color: #404bbf;
+}
+
+address {
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #434455;
+   font-style: normal;
+}
+
+address ul li > a {
+   color: #434455; 
+   text-decoration: none;
+}
+
+address ul li > a:hover,
+address ul li > a:focus {
+   color: #404bbf;
+}
+
+button {
+   background-color: #4D5AE5;
+   font-family: "Roboto", sans-serif;
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.04em;
+   color: #ffffff;
+   cursor: pointer;
+}
+
+button:hover,
+button:focus {
+   background-color: #404BBF;
+}
+
+section {
+   background-color: #2e2f42;
+}
+
+h1 {
+   font-size: 56px;
+   line-height: 1.07;
+   text-align: center;
+   letter-spacing: 0.02em;
+   color: #ffffff;
+}
+
+
+h2 {
+   font-weight: 500;
+   font-size: 20px;
+   letter-spacing: 0.02em;
+   line-height: 1.2;
+   color: #2e2f42;
+}
+
+h2 p {
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+}
+
+h3 {
+   font-weight: 500;
+   font-size: 20px;
+   letter-spacing: 0.02em;
+   line-height: 1.2;
+   color: #2e2f42;
+}
+.portfolio-title {
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+
+.facture ul {
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+
+.footer-logo {
+   font-family: "Raleway", sans-serif;
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;
+   text-decoration: none;
+}
+
+.futer-logo span {
+   color: #f4f4fd;
+}
+
+footer {
+   background-color: #2e2f42;
+}
+
+.footer-text {
+   color: #f4f4fd;
+   letter-spacing: 0.02em;
+   line-height: 1.5;
+}
+
+.feature-title {
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+
+.feature-text {
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #434455; }
+
+
+.section-title {
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   color: #2e2f42;
+   text-transform: capitalize ;
+}
+.team-section {
+   background-color: #F4F4FD;
+}
+
+.section-title {
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+   color: #2e2f42;
+}
+.team-section {
+   background-color: #F4F4FD;
+}
+
+.section-title {
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+   color: #2e2f42;
+}
+
+
+
+.team-item {
+   background-color: #ffffff;
+}
+
+
+.feature-title {
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+.logo-span
+{
+   color: #f4f4fd;
+}
+.sektion-for
+{
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   text-transform: capitalize;
+   letter-spacing:0.02em;
+}
+.app
+{
+   line-height: 1.5 ;
+   letter-spacing: 0.02em;
+   color: #434455;
+   font-size: 16px;
+}
+.our-team
+{
+   background-color: #F4F4FD;
+}
+.team-card
+{
+   background-color: #ffffff;
+}
+.member-name
+{
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+.member-role {
+   font-size: 16px;
+   line-height: 1.5;
+   letter-spacing: 0.02em;
+   color: #434455;
+}
+
