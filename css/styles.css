@@ -65,6 +65,7 @@ header
    text-decoration: none;
    display: flex;
    margin-right: 40px;
+   gap: 40px ;
 }
 
 
