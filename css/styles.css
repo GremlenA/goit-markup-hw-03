@@ -78,6 +78,7 @@ div
    color: #434455;
    text-decoration: none;
    display: flex;
+   align-items: center;
 }
 
 
