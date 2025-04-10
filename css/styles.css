@@ -168,6 +168,8 @@ h3 {
    text-transform: uppercase;
    color: #4d5ae5;
    text-decoration: none;
+   display: inline-block;
+   margin-bottom: 16px;
 }
 
 .futer-logo span {
