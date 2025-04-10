@@ -50,17 +50,20 @@ header
    width: 1158px;
    margin: 0 auto;
 }
-address {
+.contact-info {
    line-height: 1.5;
    letter-spacing: 0.02em;
    color: #434455;
    font-style: normal;
 }
 
-address ul li > a {
-   color: #434455; 
+.contact-link {
+   color: #434455;
    text-decoration: none;
+   display: flex;
+   margin-right: 40px;
 }
+
 
 address ul li > a:hover,
 address ul li > a:focus {
