@@ -7,7 +7,7 @@ header
 {
    border-bottom: 1px solid #e7e9fc;
 }
-div
+.container
 {
    display: flex;
    width: 1158px;
@@ -97,12 +97,12 @@ button:focus {
    background-color: #404BBF;
 }
 
-.header-info > nav
+.header-info.container > nav
 {
    display: flex;
    align-items: center; 
 }
-.header-info
+.header-info.container
 {
  border-bottom: 1px solid #e7e9fc;
 }
