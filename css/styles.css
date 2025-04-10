@@ -7,10 +7,10 @@ header
 {
    border-bottom: 1px solid #e7e9fc;
 }
-.header-info-container.logo-text
-{
-   display: flex; 
+.header-info-container {
+   display: flex;
    align-items: center;
+
 }
 div
 {
@@ -18,6 +18,10 @@ div
    width: 1158px;
    margin: 0 auto;
    padding: 0 15px;
+}
+.navhed {
+   display: flex;
+   align-items: center;
 }
 .logo-header {
    font-weight: 700;
