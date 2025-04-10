@@ -11,7 +11,8 @@ div
 {
    display: flex;
    width: 1158px;
-   container:0;
+   margin: 0 auto;
+   padding: 0 15px;
 }
 .logo-header {
    font-weight: 700;
