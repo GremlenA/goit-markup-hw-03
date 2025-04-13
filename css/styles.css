@@ -1,13 +1,10 @@
-body 
+body
 {
   color: #434455;
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
-.navhed
-{
-   display: flex;
-}
+
 .logo-header {
   font-weight: 700;
   font-size: 18px;
@@ -16,10 +13,21 @@ body
   text-transform: uppercase;
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
+  margin-right: 76px;
+}
+.navhed
+{
+   display: flex;
+   align-items: center;
 }
 .header
 {
    border-bottom: 1px solid #e7e9fc;
+}
+.header-info
+{
+   display: flex;
+  align-items: center;
 }
 .logo-header > span {
   color: #2e2f42;
@@ -37,7 +45,8 @@ body
 
 .menu
 {
-   display: flex; 
+   display: flex;
+   
 }
 .menu-item {
   font-weight: 500;
@@ -50,8 +59,9 @@ body
    
 }
 .menu-item:hover,
-.menu-item:focus {
-  color: #404bbf;
+.menu-item:focus
+{
+    color: #404bbf;
 }
 
 .address {
