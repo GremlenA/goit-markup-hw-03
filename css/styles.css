@@ -146,6 +146,8 @@ h3 {
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
+  display: inline-block;
+  margin-bottom: 16px; 
 }
 
 .futer-logo span {
@@ -155,7 +157,10 @@ h3 {
 footer {
   background-color: #2e2f42;
 }
-
+.main-footer
+{
+   padding: 100px 0 
+}
 .footer-text {
   color: #f4f4fd;
   letter-spacing: 0.02em;
