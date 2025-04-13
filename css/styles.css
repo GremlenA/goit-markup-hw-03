@@ -84,6 +84,12 @@ address ul li > a:focus {
 {
    display: flex;
    align-items: center;
+ 
+}
+.contact-info
+{
+   display: flex;
+   gap: 40px;
 }
 .knopka {
   background-color: #4d5ae5;
