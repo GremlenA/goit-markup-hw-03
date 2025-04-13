@@ -4,13 +4,9 @@ body
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
-.header
+.navhed
 {
-   border-bottom: 1px solid #e7e9fc;
-}
-.header-info 
-{
-   display: flex; 
+   display: flex;
 }
 .logo-header {
   font-weight: 700;
@@ -64,7 +60,11 @@ address ul li > a:hover,
 address ul li > a:focus {
   color: #404bbf;
 }
-
+.contact-link
+{
+   display: flex;
+   align-items: center;
+}
 .knopka {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -254,4 +254,8 @@ footer {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+img 
+{
+   display: block;
 }
