@@ -17,7 +17,10 @@ body
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
 }
-
+.header
+{
+   border-bottom: 1px solid #e7e9fc;
+}
 .logo-header > span {
   color: #2e2f42;
 }
@@ -31,6 +34,11 @@ body
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
 }
+
+.menu
+{
+   display: flex; 
+}
 .menu-item {
   font-weight: 500;
   font-size: 16px;
@@ -38,13 +46,15 @@ body
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
+
+   
 }
 .menu-item:hover,
 .menu-item:focus {
   color: #404bbf;
 }
 
-address {
+.address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
