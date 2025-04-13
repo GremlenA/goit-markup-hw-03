@@ -4,7 +4,14 @@ body
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
 }
-
+.header
+{
+   border-bottom: 1px solid #e7e9fc;
+}
+.header-info 
+{
+   display: flex; 
+}
 .logo-header {
   font-weight: 700;
   font-size: 18px;
@@ -84,6 +91,7 @@ address ul li > a:focus {
 .button {
   background-color: #2e2f42;
 }
+
 h1 {
   font-size: 56px;
   line-height: 1.07;
@@ -91,6 +99,7 @@ h1 {
   letter-spacing: 0.02em;
   color: #ffffff;
   max-width: 496px; 
+
 }
 
 h2 {
