@@ -141,7 +141,14 @@ address ul li > a:focus {
   max-width: 496px;
 }
 
+.section-one
+{
+  padding:120px 0;
+}
+.hidde
+{
 
+}
 h2 {
   font-weight: 500;
   font-size: 20px;
@@ -175,8 +182,17 @@ h3 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
 
+}
+.feature-list
+{
+  display: flex;
+  gap: 24px;
+}
+.feature-text
+{
+  margin-bottom: 8px; 
+}
 .footer-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
