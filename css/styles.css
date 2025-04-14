@@ -141,27 +141,45 @@ address ul li > a:focus {
   max-width: 496px;
 }
 
-.sektion-one
+.sektion-two
 {
   padding:120px 0;
 }
-
+.team 
+{
+  padding: 32px 0;
+}
 .feature-title
 {
   width: calc((100% - 72px) / 4);
   margin-bottom: 8px; 
 }
-h2 {
+.portfolio
+{
+  padding: 120px 0;
+}
+.member-name
+{
+  text-align: center;
+}
+.sektion-trhee {
   font-weight: 500;
   font-size: 20px;
   letter-spacing: 0.02em;
   line-height: 1.2;
   color: #2e2f42;
+  margin-bottom: 72px;
 }
 
 h2 p {
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.portfolio
+{
+display: flex;
+gap: 24px;
 }
 
 h3 {
