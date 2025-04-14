@@ -141,13 +141,15 @@ address ul li > a:focus {
   max-width: 496px;
 }
 
-.section-one
+.sektion-one
 {
   padding:120px 0;
 }
-.hidde
-{
 
+.feature-title
+{
+  width: calc((100% - 72px) / 4);
+  margin-bottom: 8px; 
 }
 h2 {
   font-weight: 500;
@@ -215,7 +217,7 @@ footer {
 }
 .main-footer
 {
-   padding: 100px 0 
+   padding: 100px 0;
 }
 .footer-text {
   color: #f4f4fd;
