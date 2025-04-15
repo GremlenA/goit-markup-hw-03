@@ -99,10 +99,10 @@ h2 p {
   align-items: center;color: #434455;
   text-decoration: none;
   display: flex;
-  gap: 40px;
+
 }
 
-address {
+.contact-bloc{
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -111,8 +111,8 @@ address {
 
 
 
-address ul li > a:hover,
-address ul li > a:focus {
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 
