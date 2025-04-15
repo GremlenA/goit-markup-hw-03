@@ -167,13 +167,13 @@ h2 p {
 }
 
 .feature-title {
-  width: calc((100% - 72px) / 4);
   margin-bottom: 8px;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+
 }
 
 .feature-text {
@@ -183,6 +183,7 @@ h2 p {
   color: #434455;
   margin-bottom: 8px;
   text-align: center;
+  width: calc((100% - 72px) / 4);
 }
 .visually-hidden {
   position: absolute;
@@ -196,10 +197,7 @@ h2 p {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.fakty
-{
-  width: calc((100% - 72px) / 4);
-}
+
 
 
 /* === Team (секция 3) === */
