@@ -183,6 +183,10 @@ h2 p {
   color: #434455;
   margin-bottom: 8px;
   text-align: center;
+
+}
+.feature-item
+{
   width: calc((100% - 72px) / 4);
 }
 .visually-hidden {
