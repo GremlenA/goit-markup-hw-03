@@ -185,7 +185,7 @@ h2 p {
   text-align: center;
 
 }
-.feature-itemli:first-child
+.feature-item li:first-child
 {
   width: calc((100% - 72px) / 4);
 }
