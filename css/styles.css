@@ -109,6 +109,8 @@ address {
 address ul li > a {
   color: #434455;
   text-decoration: none;
+  display: flex;
+  gap: 40px;
 }
 
 address ul li > a:hover,
