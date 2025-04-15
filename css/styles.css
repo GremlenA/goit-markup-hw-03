@@ -96,7 +96,10 @@ h2 p {
 
 .contact-link {
   display: flex;
-  align-items: center;
+  align-items: center;color: #434455;
+  text-decoration: none;
+  display: flex;
+  gap: 40px;
 }
 
 address {
@@ -106,12 +109,7 @@ address {
   font-style: normal;
 }
 
-address ul li > a {
-  color: #434455;
-  text-decoration: none;
-  display: flex;
-  gap: 40px;
-}
+
 
 address ul li > a:hover,
 address ul li > a:focus {
