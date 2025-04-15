@@ -207,16 +207,24 @@ h2 p {
 /* === Team (секция 3) === */
 .team-section {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .team {
   padding: 32px 0;
+  display: flex;
+  gap: 24px;
 }
 
 .team-card {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
-
+.team-name
+{
+  padding: 32px 0;
+}
 .team-item {
   background-color: #ffffff;
 }
