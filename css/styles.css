@@ -96,9 +96,10 @@ h2 p {
 
 .contact-link {
   display: flex;
-  align-items: center;color: #434455;
+  align-items: center;
+  color: #434455;
   text-decoration: none;
-  display: flex;
+
 
 }
 
