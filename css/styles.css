@@ -120,6 +120,7 @@ h2 p {
 /* === Order (секция 1) === */
 .order {
   padding: 188px 0;
+  background-color: #2e2f42;
 }
 
 .baner {
@@ -211,7 +212,7 @@ h2 p {
   padding: 120px 0;
 }
 
-.team {
+.portfolio-list {
   padding: 32px 0;
   display: flex;
   gap: 24px;
