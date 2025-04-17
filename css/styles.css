@@ -272,6 +272,9 @@ h2 p {
   padding: 120px 0;
   display: flex;
   gap: 24px;
+  flex-wrap: wrap;
+  margin-bottom: 72px;
+  row-gap: 48px;
 }
 
 .sektion-trhee {
