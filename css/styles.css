@@ -186,11 +186,12 @@ h2 p {
   text-align: center;
 
 }
-.feature-list li:first-child {
+.feature-list:nth-child(1) {
   width: calc((100% - 72px) / 4);
 }
 
 .visually-hidden {
+  color: rgba(0, 0, 0, 0);
   position: absolute;
   width: 1px;
   height: 1px;
@@ -202,7 +203,6 @@ h2 p {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
 
 
 
