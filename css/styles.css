@@ -186,7 +186,7 @@ h2 p {
   text-align: center;
 
 }
-.feature-list:nth-child(1) {
+.feature-item:nth-child(1) {
   width: calc((100% - 72px) / 4);
 }
 
