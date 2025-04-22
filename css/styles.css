@@ -186,9 +186,10 @@ h2 p {
   text-align: center;
 
 }
-.feature-item:nth-child(1) {
+.feature-item {
   width: calc((100% - 72px) / 4);
 }
+
 
 .visually-hidden {
   color: rgba(0, 0, 0, 0);
